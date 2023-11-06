@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hussein Alhamed</h1>
 <h3 align="center">FrontEnd Developer & UI/UX Designer</h3>
 
-- 👨‍💻 All of my projects are available at [https://7ssein.netlify.app](https://7ssein.netlify.app)
+- 👨‍💻 All of my projects are available at [https://7ssein.netlify.app](https://hsn4.github.io/MyPortfolio/)
 
-- 📫 How to reach me **hhmmaa171@gmail.com**
+- 📫 How to reach me **huseinalhamed1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
