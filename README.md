@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hussein Alhamed</h1>
 <h3 align="center">FrontEnd Developer & UI/UX Designer</h3>
 
-- 👨‍💻 All of my projects are available at [https://7ssein.netlify.app](https://hsn4.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [https://hsn4.github.io/MyPortfolio/](https://hsn4.github.io/MyPortfolio/)
 
 - 📫 How to reach me **huseinalhamed1@gmail.com**
 
